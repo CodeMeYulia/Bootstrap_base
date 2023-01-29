@@ -1,0 +1,34 @@
+.container{
+    border: 1px dashed rgb(133, 133, 133);
+}
+.block{
+    color: #fff;
+    font-size: 1.5rem;
+    background-color: rgb(82, 92, 224);
+    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+}
+
+.Gallery{
+min-height: 400px;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.Title{
+min-height: 40px;
+margin-bottom: 10px;
+}
+
+.BuyBox{
+min-height: 360px;
+}
+
+.Description{
+min-height: 220px;
+margin-bottom: 10px;
+}
+.Related{
+min-height: 200px;
+margin-bottom: 10px;
+}
